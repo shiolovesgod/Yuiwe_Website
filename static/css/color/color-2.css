@@ -1,0 +1,40 @@
+::selection {
+  background-color:#fc00ff;
+  color: #fff;
+}
+::-moz-selection {
+  background-color:#fc00ff;
+  color: #fff;
+}
+
+
+.btn-theme:hover,
+.btn-theme:focus,
+.btn-theme:active,
+.theme-color{
+  color:#fc00ff;
+}
+
+
+.price-table.active .price-head,
+.fixed-header.header,
+.ul-list-style li:after,
+.btn-theme,
+.theme-bg {
+  background:#fc00ff;
+}
+
+.btn-theme {
+	border-color:#fc00ff;
+}
+.theme-g-bg{
+	background: #fc00ff;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #00dbde, #fc00ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+@media (max-width: 991px){
+	.header	{
+		background:#fc00ff;
+	}
+}
