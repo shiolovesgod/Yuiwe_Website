@@ -1,0 +1,22 @@
+{
+  "name": "yuiwe_website",
+  "version": "1.0.0",
+  "description": "bootstrap based website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiolovesgod/Yuiwe_Website.git"
+  },
+  "author": "Ipsotronic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiolovesgod/Yuiwe_Website/issues"
+  },
+  "homepage": "https://github.com/shiolovesgod/Yuiwe_Website#readme",
+  "devDependencies": {
+    "aws": "0.0.3-2"
+  }
+}
